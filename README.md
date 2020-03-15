@@ -1,0 +1,2 @@
+# eliminator
+Eliminates everything
